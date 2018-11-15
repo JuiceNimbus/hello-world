@@ -13,7 +13,6 @@ Here is a ___paradoxical___ link to this exact page https://github.com/JuiceNimb
 
 **As the Robo says:**
 >Empowering Code Strike!
-
 >1. Charging up 
 >1. Empowering Code
     1. ___Jet Propulsion Disengage!___
